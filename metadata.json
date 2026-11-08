@@ -1,0 +1,6 @@
+{
+  "name": "MiND-Shot · Live Multi-Market Terminal & Signal Calibrator",
+  "description": "Real-time trading intelligence and calibrated mean-reversion signals across Crypto (Binance WSS), Forex, Commodities, and Equities (Yahoo Finance) with live news blackout engine and AI strategy calibrator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
